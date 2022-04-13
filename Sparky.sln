@@ -12,6 +12,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparkyMSTest", "SparkyMSTest\SparkyMSTest.csproj", "{8C6DC37A-8273-46EF-BCEF-9A12D32F0AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparkyNUnitTest", "SparkyNUnitTest\SparkyNUnitTest.csproj", "{9FB09B6B-A0BB-45A4-86CA-F49AAD9BD019}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,12 +26,22 @@ Global
 		{8A290A58-31B0-4376-9327-328DF2BDBFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A290A58-31B0-4376-9327-328DF2BDBFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A290A58-31B0-4376-9327-328DF2BDBFD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6DC37A-8273-46EF-BCEF-9A12D32F0AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6DC37A-8273-46EF-BCEF-9A12D32F0AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6DC37A-8273-46EF-BCEF-9A12D32F0AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6DC37A-8273-46EF-BCEF-9A12D32F0AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB09B6B-A0BB-45A4-86CA-F49AAD9BD019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB09B6B-A0BB-45A4-86CA-F49AAD9BD019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB09B6B-A0BB-45A4-86CA-F49AAD9BD019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB09B6B-A0BB-45A4-86CA-F49AAD9BD019}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8A290A58-31B0-4376-9327-328DF2BDBFD2} = {FE64C8EF-215B-4E37-AF71-894A8084B5A0}
+		{8C6DC37A-8273-46EF-BCEF-9A12D32F0AF9} = {FE64C8EF-215B-4E37-AF71-894A8084B5A0}
+		{9FB09B6B-A0BB-45A4-86CA-F49AAD9BD019} = {FE64C8EF-215B-4E37-AF71-894A8084B5A0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {478A0FAC-9351-4F7E-BD3E-EEEA2D38D69A}
